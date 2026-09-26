@@ -99,7 +99,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 챕터 타이틀 카드 등 한국어화가 필요한 일부 이미지 자산을 작업합니다.
 
-<!-- 스크린샷 추가 위치 -->
+<img width="2576" height="776" alt="1장 타이틀" src="https://github.com/user-attachments/assets/73eaa97a-c845-44be-95a8-90be3355bbe3" />
 
 <br>
 
