@@ -26,7 +26,7 @@ PlayStation 3 일본어판 **Tears to Tiara II (BLJM61076)**<br>
 
 Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내려받을 수 있습니다.
 
-**[공식 Ver.1.02 업데이트 PKG 다운로드](http://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61076/BLJM61076_T2/50052ddb4620fa23/JP0761-BLJM61076_00-GAMEUPDATE000001-A0102-V0102-PE.pkg)**
+**[공식 Ver.1.02 업데이트 PKG 다운로드](https://b0.ww.np.dl.playstation.net/tppkg/np/BLJM61076/BLJM61076_T2/50052ddb4620fa23/JP0761-BLJM61076_00-GAMEUPDATE000001-A0102-V0102-PE.pkg)**
 
 - 대상 게임: `BLJM61076`
 - 업데이트 버전: `01.02`
@@ -34,7 +34,11 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 - 파일 크기: `16,091,136 bytes`
 - SHA-1: `646f8ac5c7204bab1e7c9278653299235460340e`
 
-브라우저에서 위 **공식 Ver.1.02 업데이트 PKG 다운로드** 링크를 누른 뒤 PKG 파일을 저장하면 됩니다.
+브라우저에서 위 **공식 Ver.1.02 업데이트 PKG 다운로드** 링크를 누르면 PKG 파일을 직접 받을 수 있습니다.
+
+> [!TIP]
+> 링크를 눌러도 브라우저가 다운로드를 시작하지 않으면 링크 주소를 복사해 새 탭에 붙여넣어 주세요.  
+> 공식 서버는 HTTPS 주소에서도 동일한 업데이트 파일을 제공합니다.
 
 업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.
 
