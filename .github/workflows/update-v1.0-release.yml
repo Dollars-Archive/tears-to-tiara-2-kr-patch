@@ -1,0 +1,26 @@
+name: Update v1.0 release notes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-v1.0-release.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update release notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release edit v1.0 \
+            --title "티어즈 투 티아라 2 한국어 패치 v1.0" \
+            --notes-file RELEASE_v1.0.md
