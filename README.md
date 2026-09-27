@@ -1,20 +1,31 @@
 # Tears to Tiara II 한국어 패치
 
-PlayStation 3 일본어판 **Tears to Tiara II (BLJM61076)**<br>
+PlayStation 3 일본어판 **Tears to Tiara II / ティアーズ・トゥ・ティアラⅡ 覇王の末裔 (BLJM61076)**<br>
 비공식 한국어 패치 프로젝트입니다.
 
 최신 버전은 [Releases](https://github.com/Dollars-Archive/tears-to-tiara-2-kr-patch/releases)에서 받을 수 있습니다.
 
 > [!IMPORTANT]
-> 이 패치는 **PlayStation 3 일본어판 `BLJM61076`** 전용입니다.  
-> 다른 지역판, 다른 타이틀 ID 또는 다른 버전에서는 정상 동작을 보장하지 않습니다.
+> 이 패치는 **PlayStation 3 일본어판 일반판 `BLJM61076` 원본 ISO + 공식 업데이트 Ver.1.02** 기준입니다.  
+> 다른 지역판, 다른 타이틀 ID 또는 수정된 ISO에는 적용하지 마세요.
 
-## 지원 게임 버전
+## 게임 정보
 
-- **PlayStation 3 일본어판**
-- **Title ID: `BLJM61076`**
+| 항목 | 내용 |
+|---|---|
+| 원제 | ティアーズ・トゥ・ティアラⅡ 覇王の末裔 |
+| 플랫폼 | PlayStation 3 |
+| 장르 | RPG |
+| 일본 발매일 | 2013년 10월 31일 |
+| CERO | C (15세 이상) |
+| 지원 판본 | 일본판 일반판 |
+| Title ID | `BLJM61076` |
+| 패치 기준 업데이트 | 공식 Ver.1.02 |
+| 한국어 패치 버전 | v1.0 |
 
-패치 적용 전 반드시 게임의 타이틀 ID가 `BLJM61076`인지 확인해 주세요.
+> [!NOTE]
+> 패처에는 게임 본편이나 공식 업데이트 파일이 포함되어 있지 않습니다.  
+> **사용자가 직접 보유한 `BLJM61076` 원본 ISO와 공식 Ver.1.02 업데이트 PKG가 필요합니다.**
 
 <br>
 
@@ -43,9 +54,6 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.
 
 **[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
-
-> [!CAUTION]
-> 현재 한국어 패치는 **Ver.1.02을 기준** 으로 제작되었습니다.  
 
 <br>
 
@@ -108,7 +116,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 최신 한국어 패치는 [Releases](https://github.com/Dollars-Archive/tears-to-tiara-2-kr-patch/releases)에서 받을 수 있습니다.
 
 > [!NOTE]
-> 반드시 **BLJM61076 일본어판**에 적용해 주세요.
+> 반드시 **BLJM61076 일본어판 원본 ISO + 공식 Ver.1.02** 환경에 적용해 주세요.
 
 <br>
 
@@ -116,7 +124,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 설치 및 적용 방법은 각 [Release](https://github.com/Dollars-Archive/tears-to-tiara-2-kr-patch/releases)의 안내를 확인해 주세요.
 
-별도의 웹 설치 가이드는 배포 준비에 맞춰 추가될 예정입니다.
+패처는 PC에서 실행하며, RPCS3용 새 게임 폴더를 생성합니다. Android PS3 에뮬레이터에서 사용할 경우에도 먼저 PC에서 패치를 완료해야 합니다.
 
 <br>
 
@@ -133,4 +141,5 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 > 본 패치는 팬 제작 비공식 한국어 패치입니다.<br>
 > 원작 및 관련 콘텐츠의 저작권과 상표권은 각 권리자에게 있습니다.<br>
 > **본 패치는 게임 원본 파일을 포함하지 않으며, 패치에 필요한 파일만 제공합니다.**<br>
+> 게임 ISO, 공식 업데이트 PKG, 패치 완료 게임 폴더 또는 한글 업데이트 PKG를 재배포하지 마세요.<br>
 > 본 패치의 상업적 판매 및 유료 배포, 원본 게임과 합본 형태의 재배포를 금지합니다.
