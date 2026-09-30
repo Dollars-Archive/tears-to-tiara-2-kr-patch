@@ -83,9 +83,8 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 게임 진행에 사용되는 주요 메뉴와 UI 텍스트를 한국어화합니다.
 
-
-
-
+<img width="2268" height="1266" alt="스크린샷 2026-09-30 224226" src="https://github.com/user-attachments/assets/c0555a97-6e5e-46bc-a1b7-c75ab24eedfb" />
+<img width="2268" height="1251" alt="스크린샷 2026-09-30 224217" src="https://github.com/user-attachments/assets/838a9e63-e31f-4f58-bc11-a0a52f72da34" />
 
 <br>
 
