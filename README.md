@@ -51,6 +51,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 > 공식 서버는 HTTPS 주소에서도 동일한 업데이트 파일을 제공합니다.
 
 업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.
+**[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
 
 <br>
 
@@ -58,7 +59,6 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 게임 시작 화면의 **타이틀 로고를 한국어로 현지화**했습니다.
 
-**[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
 <img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_38" src="https://github.com/user-attachments/assets/c484fc4e-6b20-4c17-a1b1-c083e8d65dca" />
 <img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_49" src="https://github.com/user-attachments/assets/003a8b7a-77b1-4e74-a782-6b92d87c94e9" />
 
