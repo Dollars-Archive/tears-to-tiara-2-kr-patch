@@ -52,15 +52,16 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.
 
-**[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
-
 <br>
 
 ## 타이틀 한글화
 
 > 게임 시작 화면의 **타이틀 로고를 한국어로 현지화**했습니다.
 
-<!-- 타이틀 한글화 스크린샷 추가 위치 -->
+**[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
+<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_38" src="https://github.com/user-attachments/assets/c484fc4e-6b20-4c17-a1b1-c083e8d65dca" />
+<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_49" src="https://github.com/user-attachments/assets/003a8b7a-77b1-4e74-a782-6b92d87c94e9" />
+
 
 <br>
 
@@ -74,7 +75,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 스토리 대사, 이벤트 대사 및 관련 텍스트를 한국어화합니다.
 
-<!-- 스크린샷 추가 위치 -->
+<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_49_58" src="https://github.com/user-attachments/assets/286a793d-b826-446f-b789-8e0f952940a6" />
 
 <br>
 
@@ -82,7 +83,9 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 게임 진행에 사용되는 주요 메뉴와 UI 텍스트를 한국어화합니다.
 
-<!-- 스크린샷 추가 위치 -->
+
+
+
 
 <br>
 
@@ -90,7 +93,8 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 아이템, 장비, 스킬, 설명문 및 각종 가이드 텍스트를 한국어화합니다.
 
-<!-- 스크린샷 추가 위치 -->
+<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_54_14" src="https://github.com/user-attachments/assets/255a5ac0-a143-4d47-87ef-1ccee97105e1" />
+
 
 <br>
 
@@ -98,7 +102,8 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 세이브 및 로드 화면에 표시되는 주요 텍스트를 한국어화합니다.
 
-<!-- 스크린샷 추가 위치 -->
+<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_47_46" src="https://github.com/user-attachments/assets/43007556-bfdb-4942-b5eb-1982907b4c60" />
+
 
 <br>
 
