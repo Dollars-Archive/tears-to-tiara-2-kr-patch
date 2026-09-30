@@ -59,7 +59,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 > 게임 시작 화면의 **타이틀 로고를 한국어로 현지화**했습니다.
 
-<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_38" src="https://github.com/user-attachments/assets/c484fc4e-6b20-4c17-a1b1-c083e8d65dca" />
+<img width="1180" height="659" alt="스크린샷 2026-09-30 204355" src="https://github.com/user-attachments/assets/e403de5e-79e9-4194-ac19-e3c96ea67c97" />
 <img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_49" src="https://github.com/user-attachments/assets/003a8b7a-77b1-4e74-a782-6b92d87c94e9" />
 
 
