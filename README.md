@@ -55,19 +55,18 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 <br>
 
+## 한국어화 범위
+
+> 스토리 진행에 필요한 대사와 메뉴/UI를 포함하여 게임 전반의 텍스트를 한국어화합니다.
+
+<br>
+
 ## 타이틀 한글화
 
 > 게임 시작 화면의 **타이틀 로고를 한국어로 현지화**했습니다.
 
 <img width="1180" height="659" alt="스크린샷 2026-09-30 204355" src="https://github.com/user-attachments/assets/e403de5e-79e9-4194-ac19-e3c96ea67c97" />
 <img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_46_49" src="https://github.com/user-attachments/assets/003a8b7a-77b1-4e74-a782-6b92d87c94e9" />
-
-
-<br>
-
-## 한국어화 범위
-
-> 스토리 진행에 필요한 대사와 메뉴/UI를 포함하여 게임 전반의 텍스트를 한국어화합니다.
 
 <br>
 
