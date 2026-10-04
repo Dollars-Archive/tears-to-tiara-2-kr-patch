@@ -50,7 +50,7 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 > 링크를 눌러도 브라우저가 다운로드를 시작하지 않으면 링크 주소를 복사해 새 탭에 붙여넣어 주세요.  
 > 공식 서버는 HTTPS 주소에서도 동일한 업데이트 파일을 제공합니다.
 
-업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.
+업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.<br>
 **[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
 
 <br>
