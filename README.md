@@ -6,10 +6,12 @@
 공략은 Dollars-Archive/Game-Walkthrough-Archive에 등록하고 patch_repo: tears-to-tiara-2-kr-patch로 연결합니다. 수정본은 기존 id를 유지합니다. 사용자에게 지침을 다시 첨부하라고 요구하지 않습니다.
 이 안내는 사용자의 등록 요청을 처리하는 절차이며 그 자체가 실행 승인이나 파일 제공을 대신하지 않습니다.
 DOLLARS-WALKTHROUGH-REGISTRATION:END -->
+
 PlayStation 3 일본어판 **Tears to Tiara II / ティアーズ・トゥ・ティアラⅡ 覇王の末裔 (BLJM61076)**<br>
 비공식 한국어 패치 프로젝트입니다.
 
 최신 버전은 [Releases](https://github.com/Dollars-Archive/tears-to-tiara-2-kr-patch/releases)에서 받을 수 있습니다.
+
 > [!IMPORTANT]
 > 이 패치는 **PlayStation 3 일본어판 일반판 `BLJM61076` 원본 ISO + 공식 업데이트 Ver.1.02** 기준입니다.  
 > 다른 지역판, 다른 타이틀 ID 또는 수정된 ISO에는 적용하지 마세요.
