@@ -136,7 +136,8 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 ## 동영상 자막
 
-상태: 확인 필요
+<img width="973" height="547" alt="스크린샷 2026-10-05 123810" src="https://github.com/user-attachments/assets/60d3a5c4-b214-4e0d-b8df-bbac7b6c7beb" />
+<img width="976" height="586" alt="스크린샷 2026-10-05 102213" src="https://github.com/user-attachments/assets/6d383776-6643-4738-b4f8-afcdd18921d7" />
 
 <!-- kr-patch:scope:v1:end -->
 
