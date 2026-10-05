@@ -78,10 +78,6 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 ## 메뉴·UI
 
-상태: 완료
-
-### 메뉴 / UI
-
 > 게임 진행에 사용되는 주요 메뉴와 UI 텍스트를 한국어화합니다.
 
 <img width="2268" height="1266" alt="스크린샷 2026-09-30 224226" src="https://github.com/user-attachments/assets/c0555a97-6e5e-46bc-a1b7-c75ab24eedfb" />
@@ -108,11 +104,6 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 <br>
 
 ## 대사
-
-상태: 완료
-
-### 대사 / 이벤트
-
 > 스토리 대사, 이벤트 대사 및 관련 텍스트를 한국어화합니다.
 
 <img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_49_58" src="https://github.com/user-attachments/assets/286a793d-b826-446f-b789-8e0f952940a6" />
@@ -120,11 +111,6 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 <br>
 
 ## 이미지 번역
-
-상태: 일부
-
-### 챕터 타이틀 / 게임 내 이미지
-
 > 챕터 타이틀 카드 등 한국어화가 필요한 일부 이미지 자산을 작업합니다.
 
 <img width="2576" height="776" alt="1장 타이틀" src="https://github.com/user-attachments/assets/73eaa97a-c845-44be-95a8-90be3355bbe3" />
