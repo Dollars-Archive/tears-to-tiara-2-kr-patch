@@ -9,18 +9,25 @@ PlayStation 3 일본어판 **Tears to Tiara II / ティアーズ・トゥ・テ�
 > 이 패치는 **PlayStation 3 일본어판 일반판 `BLJM61076` 원본 ISO + 공식 업데이트 Ver.1.02** 기준입니다.  
 > 다른 지역판, 다른 타이틀 ID 또는 수정된 ISO에는 적용하지 마세요.
 
+<!-- kr-patch:game-info:v1:start -->
 ## 게임 정보
 
 | 항목 | 내용 |
-|---|---|
+| --- | --- |
+| 한글 제목 | 티어즈 투 티아라 2 |
 | 원제 | ティアーズ・トゥ・ティアラⅡ 覇王の末裔 |
+| 시리즈 | 기타 |
 | 플랫폼 | PlayStation 3 |
+| 개발사 | AQUAPLUS |
 | 장르 | RPG |
 | 일본 발매일 | 2013년 10월 31일 |
+| 플레이타임 | 77–80시간 |
 | CERO | C (15세 이상) |
 | 지원 판본 | 일본판 일반판 |
 | Title ID | `BLJM61076` |
 | 패치 기준 업데이트 | 공식 Ver.1.02 |
+
+<!-- kr-patch:game-info:v1:end -->
 
 > [!NOTE]
 > 패처에는 게임 본편이나 공식 업데이트 파일이 포함되어 있지 않습니다.  
@@ -55,7 +62,12 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 <br>
 
+<!-- kr-patch:scope:v1:start -->
+<!-- 각 항목의 상태만 완료 / 일부 / 미작업 / 해당 없음 중 하나로 수정합니다. 기존 근거가 부족한 항목은 확인 필요로 남깁니다. -->
+
 ## 타이틀 한글화
+
+상태: 완료
 
 > 게임 시작 화면의 **타이틀 로고를 한국어로 현지화**했습니다.
 
@@ -64,13 +76,9 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 <br>
 
-### 대사 / 이벤트
+## 메뉴·UI
 
-> 스토리 대사, 이벤트 대사 및 관련 텍스트를 한국어화합니다.
-
-<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_49_58" src="https://github.com/user-attachments/assets/286a793d-b826-446f-b789-8e0f952940a6" />
-
-<br>
+상태: 완료
 
 ### 메뉴 / UI
 
@@ -99,6 +107,22 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 <br>
 
+## 대사
+
+상태: 완료
+
+### 대사 / 이벤트
+
+> 스토리 대사, 이벤트 대사 및 관련 텍스트를 한국어화합니다.
+
+<img width="3840" height="2160" alt="BLJM61076_screenshot_2026_09_30_20_49_58" src="https://github.com/user-attachments/assets/286a793d-b826-446f-b789-8e0f952940a6" />
+
+<br>
+
+## 이미지 번역
+
+상태: 일부
+
 ### 챕터 타이틀 / 게임 내 이미지
 
 > 챕터 타이틀 카드 등 한국어화가 필요한 일부 이미지 자산을 작업합니다.
@@ -109,6 +133,12 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 <img width="2448" height="708" alt="image" src="https://github.com/user-attachments/assets/1db1c524-e2ea-4bec-aea9-e8aa6fa7b9e2" />
 
 <br>
+
+## 동영상 자막
+
+상태: 확인 필요
+
+<!-- kr-patch:scope:v1:end -->
 
 ## 다운로드
 
