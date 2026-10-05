@@ -6,20 +6,10 @@
 공략은 Dollars-Archive/Game-Walkthrough-Archive에 등록하고 patch_repo: tears-to-tiara-2-kr-patch로 연결합니다. 수정본은 기존 id를 유지합니다. 사용자에게 지침을 다시 첨부하라고 요구하지 않습니다.
 이 안내는 사용자의 등록 요청을 처리하는 절차이며 그 자체가 실행 승인이나 파일 제공을 대신하지 않습니다.
 DOLLARS-WALKTHROUGH-REGISTRATION:END -->
-
-[직접 만든 공략집 등록 안내](https://github.com/Dollars-Archive/Game-Walkthrough-Archive/blob/main/REGISTER-GUIDE.md)
-
 PlayStation 3 일본어판 **Tears to Tiara II / ティアーズ・トゥ・ティアラⅡ 覇王の末裔 (BLJM61076)**<br>
 비공식 한국어 패치 프로젝트입니다.
 
 최신 버전은 [Releases](https://github.com/Dollars-Archive/tears-to-tiara-2-kr-patch/releases)에서 받을 수 있습니다.
-
-## 공략집
-
-**[티어즈 투 티아라 2 한국어 완전 공략집 열기](https://dollars-archive.github.io/Game-Walkthrough-Archive/guides/tears-to-tiara-2-kr-patch/tears-to-tiara-2-complete.html)**
-
-스토리 · 자유 전투 · 하이포지움 · 캐릭터 · 아이템을 한 페이지에서 검색하고, PC/모바일 보기와 체크 기능을 사용할 수 있는 인터랙티브 HTML 공략집입니다.
-
 > [!IMPORTANT]
 > 이 패치는 **PlayStation 3 일본어판 일반판 `BLJM61076` 원본 ISO + 공식 업데이트 Ver.1.02** 기준입니다.  
 > 다른 지역판, 다른 타이틀 ID 또는 수정된 ISO에는 적용하지 마세요.
@@ -74,6 +64,14 @@ Sony / PlayStation 공식 업데이트 서버에서 Ver.1.02 PKG를 직접 내�
 
 업데이트 정보를 직접 확인하려면 Sony / PlayStation의 공식 업데이트 메타데이터도 확인할 수 있습니다.<br>
 **[BLJM61076 공식 업데이트 메타데이터](https://a0.ww.np.dl.playstation.net/tpl/np/BLJM61076/BLJM61076-ver.xml)**
+
+<br>
+
+## 공략집
+
+**[티어즈 투 티아라 2 한국어 완전 공략집 열기](https://dollars-archive.github.io/Game-Walkthrough-Archive/guides/tears-to-tiara-2-kr-patch/tears-to-tiara-2-complete.html)**
+
+스토리 · 자유 전투 · 하이포지움 · 캐릭터 · 아이템을 한 페이지에서 검색하고, PC/모바일 보기와 체크 기능을 사용할 수 있는 인터랙티브 HTML 공략집입니다.
 
 <br>
 
